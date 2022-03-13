@@ -1,0 +1,9 @@
+__pycache__/
+log/
+guess/
+sure/
+temp/
+
+.python-version
+*.csv
+*.jpg
